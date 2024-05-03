@@ -1,0 +1,10 @@
+{
+  "name": "Tweaks",
+  "description": "My GNOME extension to apply some personal UI tweaks",
+  "uuid": "tweaks@pauloimon",
+  "url": "https://github.com/pauloimon/gnome-tweaks-extension",
+  "shell-version": [
+    "46",
+    "45"
+  ]
+}
